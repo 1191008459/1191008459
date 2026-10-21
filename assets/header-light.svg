@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="348" viewBox="0 0 1120 348" role="img" aria-labelledby="title desc">
+<title id="title">He — Quantitative Research</title>
+<desc id="desc">从市场结构到研究信号。市场微观结构、因子建模、转债与风险。Decorative research signal illustration; no market performance is shown.</desc>
+<defs>
+ <linearGradient id="fade"><stop stop-color="#eff5f3"/><stop offset="1" stop-color="#e1ece7"/></linearGradient>
+ <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#087e67" stop-opacity=".2"/><stop offset="1" stop-color="#087e67" stop-opacity="0"/></linearGradient>
+ <clipPath id="clip"><rect width="1120" height="348" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1120" height="348" fill="url(#fade)"/>
+ <g stroke="#c4d7d1" stroke-width="1" opacity=".4"><path d="M540 0V348"/><path d="M580 0V348"/><path d="M620 0V348"/><path d="M660 0V348"/><path d="M700 0V348"/><path d="M740 0V348"/><path d="M780 0V348"/><path d="M820 0V348"/><path d="M860 0V348"/><path d="M900 0V348"/><path d="M940 0V348"/><path d="M980 0V348"/><path d="M1020 0V348"/><path d="M1060 0V348"/><path d="M1100 0V348"/><path d="M540 28H1120"/><path d="M540 68H1120"/><path d="M540 108H1120"/><path d="M540 148H1120"/><path d="M540 188H1120"/><path d="M540 228H1120"/><path d="M540 268H1120"/><path d="M540 308H1120"/><path d="M540 348H1120"/></g>
+ <path d="M604 222L630 217L652 232L679 209L701 213L728 190L752 203L779 178L806 183L833 156L857 169L885 136L911 153L940 111L965 128L994 98L1020 117L1052 78L1081 86L1120 59V348H604Z" fill="url(#area)"/>
+ <path d="M604 222L630 217L652 232L679 209L701 213L728 190L752 203L779 178L806 183L833 156L857 169L885 136L911 153L940 111L965 128L994 98L1020 117L1052 78L1081 86L1120 59" fill="none" stroke="#087e67" stroke-width="2" opacity=".7"/>
+ <path d="M604 246C680 238 692 251 750 219S840 211 877 197S970 174 1120 151" fill="none" stroke="#7baba3" stroke-width="1.5" stroke-dasharray="5 7"/>
+ <rect x="32" y="29" width="30" height="30" rx="7" fill="#087e67"/>
+ <path d="M40 39V49M47 39V49M40 44H47M51 39V49M51 39H56M51 44H55M51 49H56" fill="none" stroke="#eff5f3" stroke-width="1.8"/>
+ <g font-family="Arial, 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
+  <text x="75" y="49" font-size="12" font-weight="700" letter-spacing="2.5" fill="#506e70">HE / RESEARCH NOTES</text>
+  <text x="44" y="122" font-size="44" font-weight="700" letter-spacing="-1.4" fill="#152e31">Quantitative</text>
+  <text x="44" y="171" font-size="44" font-weight="700" letter-spacing="-1.4" fill="#152e31">Research.</text>
+  <text x="46" y="211" font-size="19" font-weight="500" fill="#087e67">从市场结构，到研究信号。</text>
+  <text x="46" y="241" font-size="12" letter-spacing=".4" fill="#506e70">PRICE. FLOW. STRUCTURE.</text>
+  <text x="1068" y="42" text-anchor="end" font-size="10" letter-spacing="2" fill="#506e70">OBSERVE / MODEL / VALIDATE</text>
+  <circle cx="1052" cy="78" r="5" fill="#eff5f3" stroke="#087e67" stroke-width="2"/>
+  <rect x="690" y="90" width="145" height="53" rx="8" fill="#eff5f3" stroke="#c4d7d1"/>
+  <text x="706" y="112" font-size="10" letter-spacing="1.6" fill="#506e70">RESEARCH LENS</text>
+  <text x="706" y="131" font-size="12" fill="#152e31">Signal × Context</text>
+  <path d="M32 278H1088" stroke="#c4d7d1"/>
+  <g font-size="11" letter-spacing="1.4" fill="#506e70">
+   <text x="45" y="311">01 / MICROSTRUCTURE</text><text x="320" y="311">02 / FACTORS &amp; ML</text>
+   <text x="590" y="311">03 / CONVERTIBLE BONDS</text><text x="880" y="311">04 / DATA &amp; RISK</text>
+  </g>
+ </g>
+</g>
+</svg>
